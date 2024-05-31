@@ -1,4 +1,4 @@
-# minimal-django-boilerplate
+# About
 
 ## Class Diagram
 ![Blank diagram](https://github.com/Dickyannn/I-CARD/assets/150829626/3eefa151-7f1c-461f-9bbe-a389cf9ac845)
